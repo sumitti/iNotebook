@@ -30,7 +30,7 @@ function Registration() {
 
     if (json.success) {
       localStorage.setItem("token", json.authToken);
-      localStorage.setItem("name", json.name);
+      localStorage.setItem("name", credential.name);
       Swal.fire({
         toast: true,
         theme: 'dark',
