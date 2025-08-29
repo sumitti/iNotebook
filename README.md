@@ -1,6 +1,6 @@
 # 📒 iNotebook
 
-A **secure note-taking web application** built with the **MERN stack**, featuring authentication, full **CRUD functionality**, and a clean, responsive user interface, deployed at: [Live Demo](inotebook-1-2cpm.onrender.com)
+A **secure note-taking web application** built with the **MERN stack**, featuring authentication, full **CRUD functionality**, and a clean, responsive user interface, deployed at: [Live Demo](https://inotebook-1-2cpm.onrender.com)
 
 ---
 
@@ -81,7 +81,7 @@ iNotebook/
 
 ## Deployment
 
-The live version is hosted and accessible here: [Live Demo](inotebook-1-2cpm.onrender.com)
+The live version is hosted and accessible here: [Live Demo](https://inotebook-1-2cpm.onrender.com)
 
 You can deploy your own version using hosting platforms such as Heroku, Render, Netlify, or Vercel—configure environment variables (e.g., MongoDB URI, JWT secrets) and adjust build settings accordingly.
 
